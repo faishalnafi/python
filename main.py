@@ -1,4 +1,4 @@
-#Program belajar GO-Lang
+#Program belajar pyhton
 #Created 10 Maret 2024
 
 
