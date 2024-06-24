@@ -1,3 +1,5 @@
+# Faishal Nafi Rabbani
+# 13.2023.1.01210 Sistem Informasi Malam
 import numpy as np
 
 def fibonacci(n):
